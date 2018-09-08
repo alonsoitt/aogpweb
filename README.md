@@ -1,2 +1,0 @@
-# aogpweb
-Programacion web
